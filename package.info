@@ -1,0 +1,21 @@
+#
+#Sun Jul 21 22:26:02 CEST 2019
+owner=
+code=JEdit
+java-version=j1_7
+operating-system=all
+description=jEdit is a mature programmer's text editor with hundreds (counting the time developing plugins) of person-years of development behind it.
+official=true
+type=Script
+web-url=
+version=5.1.0-1
+buildNumber=1
+owner-url=
+dependencies=
+sources-url=
+name=JEdit
+gvSIG-version=2.5.0
+state=testing
+categories=
+model-version=1.0.1
+architecture=all
