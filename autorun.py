@@ -7,5 +7,5 @@ from addons.jedit import actions
 def main(*args):
   script.registerDataFolder("jedit")
 
-  actions.selfRegister()
+  #actions.selfRegister()
   
